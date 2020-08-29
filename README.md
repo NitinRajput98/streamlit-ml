@@ -1,4 +1,7 @@
 # Mushrooms web app deployed on Heroku
-Building my first machine learning web app with the Streamlit library in Python.
+Built an interactive web application with Streamlit and Python which allows the users to choose which classification algorithm
+(Logistic Regression, Random Forest, and Support Vector Classifiers)
+they want to use and let them interactively set hyper-parameter values, all without them knowing to code!
+Also plotting evaluation metrics for the binary classification algorithms.
 
 **The deployed web app is live at :** https://streamlit-app-ml.herokuapp.com/
