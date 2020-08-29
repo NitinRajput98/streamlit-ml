@@ -5,7 +5,7 @@ they want to use and let them interactively set hyper-parameter values, all with
 Also plotting evaluation metrics for the binary classification algorithms.
 
 # Data 
-Link to the dataset used : https://archive.ics.uci.edu/ml/datasets/Mushroom
+**Link to the dataset used :** https://archive.ics.uci.edu/ml/datasets/Mushroom
 
 # Web App
 **The deployed web app is live at :** https://streamlit-app-ml.herokuapp.com/
