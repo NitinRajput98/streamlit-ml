@@ -7,4 +7,5 @@ Also plotting evaluation metrics for the binary classification algorithms.
 # Data 
 Link to the dataset used : https://archive.ics.uci.edu/ml/datasets/Mushroom
 
+# Web App
 **The deployed web app is live at :** https://streamlit-app-ml.herokuapp.com/
